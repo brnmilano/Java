@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b74156e8-275d-4c82-877c-9d9d1b76ff3f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataProcessing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataEntry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java - Estrutura Sequencial/dataProcessing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java - Estrutura Sequencial/dataProcessing.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +40,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Aplicação.Main.executor": "Run",
+    "Aplicação.dataEntry.executor": "Run",
     "Aplicação.dataProcessing.executor": "Run",
     "Application.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -65,9 +66,16 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Aplicação.dataProcessing">
+  <component name="RunManager" selected="Aplicação.dataEntry">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Java - Estrutura Sequencial" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dataEntry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dataEntry" />
       <module name="Java - Estrutura Sequencial" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,6 +90,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Aplicação.dataEntry" />
         <item itemvalue="Aplicação.dataProcessing" />
         <item itemvalue="Aplicação.Main" />
       </list>
@@ -107,7 +116,7 @@
       <workItem from="1760473223380" duration="30000" />
       <workItem from="1760473328893" duration="55000" />
       <workItem from="1760473398523" duration="2759000" />
-      <workItem from="1760476206571" duration="748000" />
+      <workItem from="1760476206571" duration="3077000" />
     </task>
     <servers />
   </component>
