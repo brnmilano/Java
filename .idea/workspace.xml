@@ -60,7 +60,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Rebasing main",
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
@@ -177,7 +177,7 @@
       <workItem from="1760885254444" duration="5000" />
       <workItem from="1760889793690" duration="175000" />
       <workItem from="1760993410458" duration="711000" />
-      <workItem from="1760994149909" duration="5285000" />
+      <workItem from="1760994149909" duration="5618000" />
     </task>
     <servers />
   </component>
