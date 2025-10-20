@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b74156e8-275d-4c82-877c-9d9d1b76ff3f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/dataProcessing2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataProcessing3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mathematicalFunctions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java - Estrutura Sequencial/dataProcessing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dataProcessing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataProcessing1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +42,7 @@
     "Aplicação.dataProcessing.executor": "Run",
     "Aplicação.dataProcessing2.executor": "Run",
     "Aplicação.dataProcessing3.executor": "Run",
+    "Aplicação.mathematicalFunctions.executor": "Run",
     "Application.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -69,14 +67,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Aplicação.dataProcessing3">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Java - Estrutura Sequencial" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Aplicação.mathematicalFunctions">
     <configuration name="dataEntry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dataEntry" />
       <module name="Java - Estrutura Sequencial" />
@@ -105,13 +96,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="mathematicalFunctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mathematicalFunctions" />
+      <module name="Java - Estrutura Sequencial" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Aplicação.mathematicalFunctions" />
         <item itemvalue="Aplicação.dataProcessing3" />
         <item itemvalue="Aplicação.dataProcessing2" />
         <item itemvalue="Aplicação.dataEntry" />
         <item itemvalue="Aplicação.dataProcessing1" />
-        <item itemvalue="Aplicação.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -139,6 +137,7 @@
       <workItem from="1760885254444" duration="5000" />
       <workItem from="1760889793690" duration="175000" />
       <workItem from="1760993410458" duration="711000" />
+      <workItem from="1760994149909" duration="698000" />
     </task>
     <servers />
   </component>
