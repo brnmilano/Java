@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b74156e8-275d-4c82-877c-9d9d1b76ff3f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/dataEntry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataProcessing2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataProcessing3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java - Estrutura Sequencial/dataProcessing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java - Estrutura Sequencial/dataProcessing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java - Estrutura Sequencial/dataProcessing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataProcessing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataProcessing1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +43,8 @@
     "Aplicação.Main.executor": "Run",
     "Aplicação.dataEntry.executor": "Run",
     "Aplicação.dataProcessing.executor": "Run",
+    "Aplicação.dataProcessing2.executor": "Run",
+    "Aplicação.dataProcessing3.executor": "Run",
     "Application.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -66,7 +69,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Aplicação.dataEntry">
+  <component name="RunManager" selected="Aplicação.dataProcessing3">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Java - Estrutura Sequencial" />
@@ -81,8 +84,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dataProcessing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dataProcessing" />
+    <configuration name="dataProcessing1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dataProcessing1" />
+      <module name="Java - Estrutura Sequencial" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dataProcessing2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dataProcessing2" />
+      <module name="Java - Estrutura Sequencial" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dataProcessing3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dataProcessing3" />
       <module name="Java - Estrutura Sequencial" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,8 +107,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Aplicação.dataProcessing3" />
+        <item itemvalue="Aplicação.dataProcessing2" />
         <item itemvalue="Aplicação.dataEntry" />
-        <item itemvalue="Aplicação.dataProcessing" />
+        <item itemvalue="Aplicação.dataProcessing1" />
         <item itemvalue="Aplicação.Main" />
       </list>
     </recent_temporary>
@@ -116,7 +135,10 @@
       <workItem from="1760473223380" duration="30000" />
       <workItem from="1760473328893" duration="55000" />
       <workItem from="1760473398523" duration="2759000" />
-      <workItem from="1760476206571" duration="3077000" />
+      <workItem from="1760476206571" duration="3703000" />
+      <workItem from="1760885254444" duration="5000" />
+      <workItem from="1760889793690" duration="175000" />
+      <workItem from="1760993410458" duration="711000" />
     </task>
     <servers />
   </component>

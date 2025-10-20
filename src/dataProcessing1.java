@@ -1,4 +1,4 @@
-public class dataProcessing {
+public class dataProcessing1 {
   public static void main(String[] args) {
     // Multiplicação simples
     int x, y;
