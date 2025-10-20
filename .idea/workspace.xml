@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b74156e8-275d-4c82-877c-9d9d1b76ff3f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/mathematicalFunctions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b74156e8-275d-4c82-877c-9d9d1b76ff3f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +20,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Exercises/exercise06.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="KubernetesApiPersistence">{}</component>
   <component name="KubernetesApiProvider">{
   &quot;isMigrated&quot;: true
@@ -31,6 +31,9 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="343mCVWwExikAoOeC64pgNSbhng" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -42,6 +45,13 @@
     "Aplicação.dataProcessing.executor": "Run",
     "Aplicação.dataProcessing2.executor": "Run",
     "Aplicação.dataProcessing3.executor": "Run",
+    "Aplicação.exercise01.executor": "Run",
+    "Aplicação.exercise02.executor": "Run",
+    "Aplicação.exercise03.executor": "Run",
+    "Aplicação.exercise04.executor": "Run",
+    "Aplicação.exercise05.executor": "Run",
+    "Aplicação.exercise06.executor": "Run",
+    "Aplicação.exercises.executor": "Run",
     "Aplicação.mathematicalFunctions.executor": "Run",
     "Application.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -67,49 +77,79 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Aplicação.mathematicalFunctions">
-    <configuration name="dataEntry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dataEntry" />
+  <component name="RunManager" selected="Aplicação.exercise06">
+    <configuration name="exercise02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.exercise02" />
       <module name="Java - Estrutura Sequencial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dataProcessing1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dataProcessing1" />
+    <configuration name="exercise03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.exercise03" />
       <module name="Java - Estrutura Sequencial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dataProcessing2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dataProcessing2" />
+    <configuration name="exercise04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.exercise04" />
       <module name="Java - Estrutura Sequencial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dataProcessing3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dataProcessing3" />
+    <configuration name="exercise05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.exercise05" />
       <module name="Java - Estrutura Sequencial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mathematicalFunctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mathematicalFunctions" />
+    <configuration name="exercise06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.exercise06" />
       <module name="Java - Estrutura Sequencial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Aplicação.mathematicalFunctions" />
-        <item itemvalue="Aplicação.dataProcessing3" />
-        <item itemvalue="Aplicação.dataProcessing2" />
-        <item itemvalue="Aplicação.dataEntry" />
-        <item itemvalue="Aplicação.dataProcessing1" />
+        <item itemvalue="Aplicação.exercise06" />
+        <item itemvalue="Aplicação.exercise05" />
+        <item itemvalue="Aplicação.exercise04" />
+        <item itemvalue="Aplicação.exercise03" />
+        <item itemvalue="Aplicação.exercise02" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +177,7 @@
       <workItem from="1760885254444" duration="5000" />
       <workItem from="1760889793690" duration="175000" />
       <workItem from="1760993410458" duration="711000" />
-      <workItem from="1760994149909" duration="698000" />
+      <workItem from="1760994149909" duration="5285000" />
     </task>
     <servers />
   </component>
