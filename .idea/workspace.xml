@@ -5,26 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b74156e8-275d-4c82-877c-9d9d1b76ff3f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ConditionalStructure/ConditionalStructureIfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/exercise07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/exercise08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/exercise09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/exercise10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStructure/ScopeAndInitialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStructure/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStructure/Ternary.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java - Estrutura Sequencial/Exercises/exercise02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java - Estrutura Sequencial/Exercises/exercise02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java - Estrutura Sequencial/Exercises/exercise03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java - Estrutura Sequencial/Exercises/exercise03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java - Estrutura Sequencial/Exercises/exercise04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java - Estrutura Sequencial/Exercises/exercise04.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java - Estrutura Sequencial/Exercises/exercise06.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java - Estrutura Sequencial/Exercises/exercise06.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java - Estrutura Sequencial/dataEntry.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java - Estrutura Sequencial/dataProcessing1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java - Estrutura Sequencial/dataProcessing2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java - Estrutura Sequencial/dataProcessing3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java - Estrutura Sequencial/mathematicalFunctions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dataEntry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SequentialStructure/dataEntry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dataProcessing1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SequentialStructure/dataProcessing1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dataProcessing2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SequentialStructure/dataProcessing2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dataProcessing3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SequentialStructure/dataProcessing3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mathematicalFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SequentialStructure/mathematicalFunctions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +47,8 @@
   "keyToString": {
     "Aplicação.ConditionalStructureIfElse.executor": "Run",
     "Aplicação.Main.executor": "Run",
+    "Aplicação.ScopeAndInitialization.executor": "Run",
+    "Aplicação.Switch.executor": "Run",
     "Aplicação.dataEntry.executor": "Run",
     "Aplicação.dataProcessing.executor": "Run",
     "Aplicação.dataProcessing2.executor": "Run",
@@ -103,9 +89,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Aplicação.exercise10">
-    <configuration name="ConditionalStructureIfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConditionalStructure.ConditionalStructureIfElse" />
+  <component name="RunManager" selected="Aplicação.ScopeAndInitialization">
+    <configuration name="ScopeAndInitialization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConditionalStructure.ScopeAndInitialization" />
       <module name="Java - Estrutura Sequencial" />
       <extension name="coverage">
         <pattern>
@@ -117,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercise07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises.exercise07" />
+    <configuration name="Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConditionalStructure.Switch" />
       <module name="Java - Estrutura Sequencial" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercises.*" />
+          <option name="PATTERN" value="ConditionalStructure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Aplicação.ScopeAndInitialization" />
+        <item itemvalue="Aplicação.Switch" />
         <item itemvalue="Aplicação.exercise10" />
         <item itemvalue="Aplicação.exercise09" />
         <item itemvalue="Aplicação.exercise08" />
-        <item itemvalue="Aplicação.exercise07" />
-        <item itemvalue="Aplicação.ConditionalStructureIfElse" />
       </list>
     </recent_temporary>
   </component>
@@ -205,6 +191,7 @@
       <workItem from="1760993410458" duration="711000" />
       <workItem from="1760994149909" duration="5727000" />
       <workItem from="1761058503162" duration="7712000" />
+      <workItem from="1761223644253" duration="1617000" />
     </task>
     <servers />
   </component>
