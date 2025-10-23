@@ -1,3 +1,5 @@
+package SequentialStructure;
+
 public class dataProcessing1 {
   public static void main(String[] args) {
     // Multiplicação simples

@@ -1,3 +1,5 @@
+package SequentialStructure;
+
 import java.util.Scanner;
 
 // sc.nextLine(); - lê um texto até a quebra de linha, considerando espaço.

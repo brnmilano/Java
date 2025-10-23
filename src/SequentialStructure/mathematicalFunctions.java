@@ -1,4 +1,4 @@
-// A = Math.sqrt(x) -> Variável A recebe a raiz quadrada de x
+package SequentialStructure;// A = Math.sqrt(x) -> Variável A recebe a raiz quadrada de x
 // A = Math.pow(x, y); -> Variável A recebe o resultado de x elevado a y (potência)
 // A = Math.abs(x); -> Variável A recebe o valor absoluto de x
 

@@ -1,3 +1,5 @@
+package SequentialStructure;
+
 import java.util.Scanner;
 
 // Para fazer a entrada de dados no Java, podemos criar um objeto do tipo "Scanner".
